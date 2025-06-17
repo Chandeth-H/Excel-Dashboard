@@ -54,6 +54,37 @@ Similar to the first graph, it can be filtered by segment, category, and shippin
 
 ![image](https://github.com/user-attachments/assets/f4894704-31ac-4e4e-ac01-09b757310870)
 
+The dashboard displays monthly sales data during 2019-2022, highlighting key metrics and trends related to coffee sales.
+
+### Time Series Analysis:
+
+A line graph illustrates Total Sales Over Time, with monthly data spanning from 2019 to 2021. Different colored lines represent various coffee roast types (e.g., Dark, Light, and Medium), allowing for easy comparison of sales trends across these categories.
+
+### Sales by Country:
+
+A bar chart or summary displays total sales figures segmented by country.
+
+The top countries include:
+- United States: $35,569
+- Ireland: $6,697
+- United Kindom: $2,799
+
+This section highlights the geographical distribution of coffee sales, showcasing which markets are most lucrative.
+
+Top 5 Customers:
+
+A list or table identifies the top customers based on sales volume. Notable customers include:
+- Allis Wilmore: $317
+- Brenn Dundredge: $307 
+- Terri Farra: $289
+- Nealson Cuttler: $282
+- Don Flintiff: $278
+  
+This information emphasizes customer loyalty and significant contributors to sales.
+
+### Filters and Interactivity:
+
+Users can filter data by Roast Type (e.g., Dark, Light, Medium), Loyalty Card status, and the period of sales (All Periods, Monthly) to gain tailored insights.
 
 
 
