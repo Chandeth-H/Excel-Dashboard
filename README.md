@@ -12,7 +12,8 @@ This repository contains a few dashboards done in Excel.
 
 ## *** Coffee Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/38703d36-14ec-45c8-88a1-8ce39cf949ed)
+![image](https://github.com/user-attachments/assets/f4894704-31ac-4e4e-ac01-09b757310870)
+
 
 
 
