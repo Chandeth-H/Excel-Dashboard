@@ -1,6 +1,6 @@
 # Excel-Dashboard
 
-This repository contains a few dashboard done in Excel.
+This repository contains a few dashboards done in Excel.
 
 ## ***Billionaire Dashboard
 
