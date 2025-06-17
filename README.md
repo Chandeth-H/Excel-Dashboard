@@ -56,7 +56,7 @@ Similar to the first graph, it can be filtered by segment, category, and shippin
 
 The dashboard displays monthly sales data during 2019-2022, highlighting key metrics and trends related to coffee sales.
 
-### Time Series Analysis:
+### Time Series Graph:
 
 A line graph illustrates Total Sales Over Time, with monthly data spanning from 2019 to 2021. Different colored lines represent various coffee roast types (e.g., Dark, Light, and Medium), allowing for easy comparison of sales trends across these categories.
 
