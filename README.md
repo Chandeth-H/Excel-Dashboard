@@ -2,7 +2,7 @@
 
 This repository contains a few dashboards done in Excel.
 
-## *** Coffee Sales Dashboard
+## 1. Coffee Sales Dashboard
 
 ![image](https://github.com/user-attachments/assets/f4894704-31ac-4e4e-ac01-09b757310870)
 
@@ -38,7 +38,7 @@ This information emphasizes customer loyalty and significant contributors to sal
 
 Users can filter data by Roast Type (e.g., Dark, Light, Medium), Loyalty Card status, and the period of sales (All Periods, Monthly) to gain tailored insights.
 
-## *** Supermartket Sales Dashboard
+## 2. Supermartket Sales Dashboard
 
 ![image](https://github.com/user-attachments/assets/66d7b753-48f7-489d-9396-366d342dbf9b)
 
@@ -65,7 +65,7 @@ This bar graph highlights the top 10 states with the highest sales, providing a 
 Similar to the first graph, it can be filtered by segment, category, and shipping mode for targeted insights.
 
 
-## ***Billionaire Dashboard
+## 3. Billionaire Dashboard
 
 ![image](https://github.com/user-attachments/assets/f3f43fb7-480a-4a7a-a060-059bb0c00547)
 
