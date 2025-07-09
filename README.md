@@ -87,6 +87,9 @@ This graph illustrates total net worth segmented by industry category. It provid
 
 The dashboard includes interactive slicers for Gender, Self-Made Status, and Region, enabling users to filter the data for a deeper understanding of the demographics and characteristics of billionaires. This functionality allows for customized analysis, making it easier for audiences to explore trends and insights based on specific criteria.
 
+## 4. Sales & Profit Dashboard
+![image](https://github.com/user-attachments/assets/6e184af8-914b-4cb1-a8d6-bf4b470c1eb0)
+
 
 
 
