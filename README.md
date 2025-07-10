@@ -8,7 +8,34 @@ This repository contains a few dashboards done in Excel.
 ## 2. Sales & Profit Dashboard
 ![image](https://github.com/user-attachments/assets/6e184af8-914b-4cb1-a8d6-bf4b470c1eb0)
 
-## 3. Coffee Sales Dashboard
+## 3. Supermartket Sales Dashboard
+
+![image](https://github.com/user-attachments/assets/66d7b753-48f7-489d-9396-366d342dbf9b)
+
+This dashboard provides a comprehensive analysis of sales and profit data for a supermarket, comparing figures from 2016 to 2017. Key metrics include total sales, profit, and their respective growth rates, all measured in US dollars.
+
+### Key Metrics
+- Sales Growth: Sales increased by 20.36%, rising from $609,205.60 in 2016 to $733,215.26 in 2017.
+- Profit Growth: Profit grew by 14.24%, increasing from $81,795.17 to $93,439.27 in the same period.
+
+### Data Tables
+The dashboard features detailed tables that outline the sales and growth of each sub-category.
+Users can filter data by segment (e.g., Consumer, Corporate, Home Office) and category (e.g., Furniture, Office Supplies, Technology) to gain insights into specific areas.
+
+### Graphical Visualizations
+
+#### Quarterly Sales and Profit Graph:
+
+This graph illustrates sales and profit trends on a quarterly basis, allowing for easy comparison of performance over time.
+Users can filter this graph by segment, category, and shipping mode to analyze specific data points.
+
+#### Top 10 States by Sales Graph:
+
+This bar graph highlights the top 10 states with the highest sales, providing a clear visual representation of regional performance.
+Similar to the first graph, it can be filtered by segment, category, and shipping mode for targeted insights.
+
+
+## 4. Coffee Sales Dashboard
 
 ![image](https://github.com/user-attachments/assets/f4894704-31ac-4e4e-ac01-09b757310870)
 
@@ -43,33 +70,6 @@ This information emphasizes customer loyalty and significant contributors to sal
 ### Filters and Interactivity:
 
 Users can filter data by Roast Type (e.g., Dark, Light, Medium), Loyalty Card status, and the period of sales (All Periods, Monthly) to gain tailored insights.
-
-## 4. Supermartket Sales Dashboard
-
-![image](https://github.com/user-attachments/assets/66d7b753-48f7-489d-9396-366d342dbf9b)
-
-This dashboard provides a comprehensive analysis of sales and profit data for a supermarket, comparing figures from 2016 to 2017. Key metrics include total sales, profit, and their respective growth rates, all measured in US dollars.
-
-### Key Metrics
-- Sales Growth: Sales increased by 20.36%, rising from $609,205.60 in 2016 to $733,215.26 in 2017.
-- Profit Growth: Profit grew by 14.24%, increasing from $81,795.17 to $93,439.27 in the same period.
-
-### Data Tables
-The dashboard features detailed tables that outline the sales and growth of each sub-category.
-Users can filter data by segment (e.g., Consumer, Corporate, Home Office) and category (e.g., Furniture, Office Supplies, Technology) to gain insights into specific areas.
-
-### Graphical Visualizations
-
-#### Quarterly Sales and Profit Graph:
-
-This graph illustrates sales and profit trends on a quarterly basis, allowing for easy comparison of performance over time.
-Users can filter this graph by segment, category, and shipping mode to analyze specific data points.
-
-#### Top 10 States by Sales Graph:
-
-This bar graph highlights the top 10 states with the highest sales, providing a clear visual representation of regional performance.
-Similar to the first graph, it can be filtered by segment, category, and shipping mode for targeted insights.
-
 
 ## 5. Billionaire Dashboard
 
