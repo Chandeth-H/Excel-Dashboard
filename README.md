@@ -14,13 +14,17 @@ This repository contains a few dashboards done in Excel.
 
 This dashboard provides a comprehensive analysis of sales and profit data for a supermarket, comparing figures from 2016 to 2017. Key metrics include total sales, profit, and their respective growth rates, all measured in US dollars.
 
-## 4. Coffee Sales Dashboard
+## 4. Coca-Cola Retailer Dashboard
+
+<img width="1134" height="706" alt="image" src="https://github.com/user-attachments/assets/256ed2c1-7737-4eae-842e-404b9816d6cc" />
+
+## 5. Coffee Sales Dashboard
 
 ![image](https://github.com/user-attachments/assets/f4894704-31ac-4e4e-ac01-09b757310870)
 
 The dashboard displays monthly sales data during 2019-2022, highlighting key metrics and trends related to coffee sales.
 
-## 5. Billionaire Dashboard
+## 6. Billionaire Dashboard
 
 ![image](https://github.com/user-attachments/assets/f3f43fb7-480a-4a7a-a060-059bb0c00547)
 
